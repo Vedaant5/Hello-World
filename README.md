@@ -1,2 +1,5 @@
 # Hello-World
-Open the file and ...... Surprise!
+ Hello Humans
+ 
+ My Name is Vedaant Tiwari i am from Mumbai , India. I am new to github. 
+ I
